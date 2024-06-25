@@ -21,12 +21,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="wwwroot\HinhanhSP\avt2.jpg" />
-    <None Include="wwwroot\HinhanhSP\avt3.jpg" />
-    <None Include="wwwroot\HinhanhSP\avt4.jpg" />
     <None Include="wwwroot\HinhanhSP\ban1.jpg" />
     <None Include="wwwroot\HinhanhSP\ban2.jpg" />
-    <None Include="wwwroot\HinhanhSP\banner.png" />
     <None Include="wwwroot\HinhanhSP\ip3.jpg" />
     <None Include="wwwroot\HinhanhSP\ip4.jpg" />
     <None Include="wwwroot\HinhanhSP\ip5.jpg" />
